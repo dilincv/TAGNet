@@ -1,0 +1,5 @@
+pytorch-segmentation-toolbox：https://github.com/speedinghzl/pytorch-segmentation-toolbox
+
+inplace_abn：https://github.com/mapillary/inplace_abn
+
+PreciseRoIPooling：https://github.com/vacancy/PreciseRoIPooling
